@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "merge-package-json": "^0.1.3"
+  }
+}
